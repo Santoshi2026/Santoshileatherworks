@@ -370,7 +370,6 @@ ul {
     display: flex;
     align-items: center;
     position: relative;
-    background: url('bckgrnd.png') center/cover no-repeat;
     background-attachment: fixed;
     color: var(--clr-white);
     padding-top: 80px; /* Offset for header */
